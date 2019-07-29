@@ -3,27 +3,32 @@
     {
       "name": "UserName1",
       "text": "MessageText1",
+      "uid": 1,
       "id": 1
     },
     {
       "name": "UserName2",
       "text": "MessageText2",
+      "uid": 2,
       "id": 2
     },
     {
       "name": "UserName3",
       "text": "MessageText3",
+      "uid": 3,
       "id": 3
     },
     {
       "name": "UserName2",
       "text": "MessageText2",
-      "id": 2
+      "uid": 2,
+      "id": 4
     },
     {
       "name": "UserName1",
       "text": "MessageText1",
-      "id": 1
+      "uid": 1,
+      "id": 5
     }
   ],
   "users": [
