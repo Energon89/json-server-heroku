@@ -1,0 +1,56 @@
+{
+  "messages": [
+    {
+      "name": "UserName1",
+      "text": "MessageText1",
+      "id": 1
+    },
+    {
+      "name": "UserName2",
+      "text": "MessageText2",
+      "id": 2
+    },
+    {
+      "name": "UserName3",
+      "text": "MessageText3",
+      "id": 3
+    },
+    {
+      "name": "UserName2",
+      "text": "MessageText2",
+      "id": 2
+    },
+    {
+      "name": "UserName1",
+      "text": "MessageText1",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "UserName1",
+      "password": "password1",
+      "id": 1
+    },
+    {
+      "name": "UserName2",
+      "password": "password2",
+      "id": 2
+    },
+    {
+      "name": "UserName3",
+      "password": "password3",
+      "id": 3
+    },
+    {
+      "name": "UserName4",
+      "password": "password4",
+      "id": 4
+    },
+    {
+      "name": "UserName5",
+      "password": "password5",
+      "id": 5
+    }
+  ]
+}
